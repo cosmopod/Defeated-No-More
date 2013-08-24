@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>spaceBackground.jpg</Source>
+      <Name>spaceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground.xnb</Output>
+      <Time>2013-08-17T12:55:15.9594301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceShip.png</Source>
+      <Name>spaceShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceShip.xnb</Output>
+      <Time>2013-08-13T10:56:53.5171392+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shipLeft.png</Source>
+      <Name>shipLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\shipLeft.xnb</Output>
+      <Time>2013-08-13T10:57:09.2250376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shipRight.png</Source>
+      <Name>shipRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\shipRight.xnb</Output>
+      <Time>2013-08-13T10:57:09.2260377+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fireBall.png</Source>
+      <Name>fireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\fireBall.xnb</Output>
+      <Time>2013-08-14T09:32:36.8175146+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyShip.png</Source>
+      <Name>enemyShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip.xnb</Output>
+      <Time>2013-08-14T15:19:13.0255163+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyShip2.png</Source>
+      <Name>enemyShip2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip2.xnb</Output>
+      <Time>2013-08-14T15:19:20.5759482+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyShip3.png</Source>
+      <Name>enemyShip3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip3.xnb</Output>
+      <Time>2013-08-14T15:19:29.8844806+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyFireBall.png</Source>
+      <Name>enemyFireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyFireBall.xnb</Output>
+      <Time>2013-08-15T12:22:42.8038106+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ShipFont.spritefont</Source>
+      <Name>ShipFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\ShipFont.xnb</Output>
+      <Time>2013-08-19T14:46:33.9674478+02:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2013-08-16T18:03:33.349495+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music.mp3</Source>
+      <Name>music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\music.xnb</Output>
+      <Extra>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\music.wma</Extra>
+      <Time>2013-08-19T20:21:13.89411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>heartPinkPixel.png</Source>
+      <Name>heartPinkPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\heartPinkPixel.xnb</Output>
+      <Time>2013-08-16T20:44:15.1859765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-08-16T21:36:30.7543207+02:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.WAV</Source>
+      <Name>laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2013-08-16T22:20:35.1795732+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceBackground2.png</Source>
+      <Name>spaceBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground2.xnb</Output>
+      <Time>2013-08-17T12:45:02.8134301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceBackground3.png</Source>
+      <Name>spaceBackground3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground3.xnb</Output>
+      <Time>2013-08-17T14:38:02.6534301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>startGameSplash.png</Source>
+      <Name>startGameSplash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\startGameSplash.xnb</Output>
+      <Time>2013-08-19T14:32:50.8043655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>endGameSplash.png</Source>
+      <Name>endGameSplash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\endGameSplash.xnb</Output>
+      <Time>2013-08-19T14:39:54.9656262+02:00</Time>
+    </Item>
+    <Item>
+      <Source>introTheme.mp3</Source>
+      <Name>introTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\introTheme.xnb</Output>
+      <Extra>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\introTheme.wma</Extra>
+      <Time>2013-08-19T16:58:12.9712449+02:00</Time>
+    </Item>
+    <Item>
+      <Source>starExplosion.png</Source>
+      <Name>starExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\starExplosion.xnb</Output>
+      <Time>2013-08-20T17:25:59.4462085+02:00</Time>
+    </Item>
+    <Item>
+      <Source>beginSplash.jpg</Source>
+      <Name>beginSplash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\beginSplash.xnb</Output>
+      <Time>2013-08-23T12:46:57.1401565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>endSplash.jpg</Source>
+      <Name>endSplash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\endSplash.xnb</Output>
+      <Time>2013-08-23T12:47:04.9557702+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3C0C13B4-48BE-4388-AD04-B69FC47780DA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-05T22:44:06.310256+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

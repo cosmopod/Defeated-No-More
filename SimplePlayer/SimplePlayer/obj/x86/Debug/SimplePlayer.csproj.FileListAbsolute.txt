@@ -1,0 +1,35 @@
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceShip.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\shipLeft.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\shipRight.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\fireBall.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip2.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyShip3.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\enemyFireBall.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\ShipFont.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\endGameSplash.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\startGameSplash.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\circle.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\music.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\music.wma
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\heartPinkPixel.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\laser.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground2.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\spaceBackground3.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\introTheme.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\introTheme.wma
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\starExplosion.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\beginSplash.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Content\endSplash.xnb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Defeated No More.exe.manifest
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Defeated No More.application
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Defeated No More.exe
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\bin\x86\Debug\Defeated No More.pdb
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\Defeated No More.exe.manifest
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\Defeated No More.application
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\Defeated No More.exe
+C:\Users\Cuenta limitada\Documents\Visual Studio 2010\Projects\SimplePlayer\SimplePlayer\SimplePlayer\obj\x86\Debug\Defeated No More.pdb
